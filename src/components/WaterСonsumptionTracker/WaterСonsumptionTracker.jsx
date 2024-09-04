@@ -100,4 +100,6 @@ const WaterСonsumptionTracker = () => {
     </div>
   );
 };
+
+
 export default WaterСonsumptionTracker;
